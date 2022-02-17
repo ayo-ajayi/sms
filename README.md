@@ -31,14 +31,14 @@ Code can be executed with:
 make run
 ```
 
-Ignore the whole code execution section if you are working in a linux environment to avoid issues. Simple run code with: 
+Ignore the whole [code execution](./README.md#code-execution) section if you are working in a linux environment to avoid issues. Simple run code with: 
 ```sh
 go run .
 ```
 
-or find an alternative to nodemon.
+or find an alternative to nodemon
 
+Thank you ❤
+ 
 
-
-Thank you
 
