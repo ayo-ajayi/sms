@@ -8,11 +8,12 @@ The school can also pass message to all students at once or students in a facult
 
 ## we use:
 1. gorilla/websocket for real-time communication (chatroom) between the lecturers and students or we use a custom mailing system.
-2. gonic-gin web engine.
+2. gonic-gin web engine.   
+2*. I'm actually also thinking of net/http because of it's flexibility. I've encoutered some issues with gin.
 3. MongoDB Go driver for database because of the flexibility of the whole app.
 4. golang-jwt/jwt
 5. twinj/uuid
-6. crypto/bcrypt
+6 crypto/bcrypt
 
 We can make use of the swagger tool for API documentation
 [Swagger](https://swagger.io/tools/swagger-ui/)
