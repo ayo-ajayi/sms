@@ -10,6 +10,8 @@ The school can also pass message to all students at once or students in a facult
 1. gorilla/websocket for real-time communication (chatroom) between the lecturers and students or we use a custom mailing system.
 2. gonic-gin web engine.   
 2*. I'm actually also thinking of net/http because of it's flexibility. I've encoutered some issues with gin.
+The implication is that we would have to waste time doing some things manually.
+Another option is to use both packages together. We just have to take note of our underlying return types.
 3. MongoDB Go driver for database because of the flexibility of the whole app.
 4. golang-jwt/jwt
 5. twinj/uuid
