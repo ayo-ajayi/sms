@@ -17,5 +17,27 @@ The school can also pass message to all students at once or students in a facult
 We can make use of the swagger tool for API documentation
 [Swagger](https://swagger.io/tools/swagger-ui/)
 
+## code execution
+ Install the following to ease the execution process
+
+```sh
+npm i -g nodemon
+npm i make -g
+
+```
+
+Code can be executed with:
+```sh
+make run
+```
+
+Ignore the whole code execution  section if you are working in a linux environmemt to avoid issues. Simple run with 
+```sh
+go run .
+```
+or find an alternative to nodemon.
+
+
+
 Thank you
 
