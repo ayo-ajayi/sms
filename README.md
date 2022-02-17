@@ -15,7 +15,7 @@ The school can also pass message to all students at once or students in a facult
 6. crypto/bcrypt
 
 We can make use of the swagger tool for API documentation
-[Swagger](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjKsLztxYX2AhUqlIsKHdyOCf8QFnoECBIQAQ&url=https%3A%2F%2Fswagger.io%2Ftools%2Fswagger-ui%2F&usg=AOvVaw3YjYRlb8vfv3ikpY_6O0AX)
+[Swagger](https://swagger.io/tools/swagger-ui/)
 
 Thank you
 
