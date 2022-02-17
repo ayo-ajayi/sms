@@ -15,7 +15,7 @@ Another option is to use both packages together. We just have to take note of ou
 3. MongoDB Go driver for database because of the flexibility of the whole app.
 4. golang-jwt/jwt
 5. twinj/uuid
-6 crypto/bcrypt
+6. pto/bcrypt
 
 We can make use of the swagger tool for API documentation
 [Swagger](https://swagger.io/tools/swagger-ui/)
