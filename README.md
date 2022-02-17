@@ -1,4 +1,4 @@
-# Student-management-system
+# Student-management-system (sms)
 
 
 Student can register courses, register exams and the teachers paste the scores.
